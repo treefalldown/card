@@ -138,7 +138,8 @@ function setup() {
   // backgroundImg = loadImage('Poster_Background_00_web_800x600.png')
 
   // Maya and Albert
-  park2022_500x500 = loadImage('Headshots/park2022_500x500.png');
+//   park2022_500x500 = loadImage('Headshots/park2022_500x500.png');
+  park2022_500x500 = loadImage('Headshots/Poster_Emily.png');
 
 
   // Banham Fellows
